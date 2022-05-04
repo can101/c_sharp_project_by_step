@@ -1,4 +1,4 @@
-﻿# C--Project
+﻿# c_sharp_project_by_step
 > ## uygulamaninn calisma aninin gorunumu
 
 ![Alt Text](./images/gif1.gif)
